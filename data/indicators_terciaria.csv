@@ -1,0 +1,843 @@
+,name,description,short_name,id
+532,Programas balance transfronterizo con Francia importación,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente. La asignación de energía de balance de tipo RR se realiza a través de la plataforma europea de RR (LIBRA) en aplicación del artículo 19 del Reglamento (UE) 2017/2195 sobre el Balance Eléctrico (EBGL).
+
+Este servicio se encuentra regulado en el P.O.3.3
+
+En concreto este indicador se refiere a programas de intercambio de energías de balance, en [MWh], de tipo RR en la frontera con Francia en sentido FR->ES para cada hora. Este indicador recoge los datos de asignación de energías de balance transfronterizas realizadas en el pasado a través de la plataforma BALIT.
+
+Publicación: En la hora siguiente a la publicación de la sesión de terciaria en la que el servicio es utilizado y actualizados al final del día.",Francia importación,535
+533,Programas balance transfronterizo con Francia exportación,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente. La asignación de energía de balance de tipo RR se realiza a través de la plataforma europea de RR (LIBRA) en aplicación del artículo 19 del Reglamento (UE) 2017/2195 sobre el Balance Eléctrico (EBGL).
+
+Este servicio se encuentra regulado en el P.O.3.3
+
+En concreto este indicador se refiere a programas de intercambio de energías de balance, en [MWh], de tipo RR en la frontera con Francia en sentido ES->FR para cada hora. Este indicador recoge los datos de asignación de energías de balance transfronterizas realizadas en el pasado a través de la plataforma BALIT.
+
+Publicación: En la hora siguiente a la publicación de la sesión de terciaria en la que el servicio es utilizado y actualizados al final del día.",Francia exportación,536
+536,Programas balance transfronterizo con Portugal importación,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente. La asignación de energía de balance de tipo RR se realiza a través de la plataforma europea de RR (LIBRA) en aplicación del artículo 19 del Reglamento (UE) 2017/2195 sobre el Balance Eléctrico (EBGL).
+
+Este servicio se encuentra regulado en el P.O.3.3
+
+En concreto este indicador se refiere a programas de intercambio de energías de balance, en [MWh], de tipo RR en la frontera con Portugal en sentido PT->ES para cada hora. Este indicador recoge los datos de asignación de energías de balance transfronterizas realizadas en el pasado a través de la plataforma BALIT.
+
+Publicación: En la hora siguiente a la publicación de la sesión de terciaria en la que el servicio es utilizado y actualizados al final del día.",Portugal importación,539
+537,Programas balance transfronterizo con Portugal exportación,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente. La asignación de energía de balance de tipo RR se realiza a través de la plataforma europea de RR (LIBRA) en aplicación del artículo 19 del Reglamento (UE) 2017/2195 sobre el Balance Eléctrico (EBGL).
+
+Este servicio se encuentra regulado en el P.O.3.3
+
+En concreto este indicador se refiere a programas de intercambio de energías de balance, en [MWh], de tipo RR en la frontera con Portugal en sentido ES->PT para cada hora. Este indicador recoge los datos de asignación de energías de balance transfronterizas realizadas en el pasado a través de la plataforma BALIT.
+
+Publicación: En la hora siguiente a la publicación de la sesión de terciaria en la que el servicio es utilizado y actualizados al final del día.",Portugal exportación,540
+542,Demanda programada,"Es la demanda de energía programada calculada mediante los intercambios internacionales programados y los programas de los grupos de generación a los que se les haya asignado suministro de energía en la casación de los mercados diario e intradiario, así como en los mercados de energías de balance RR y regulación terciaria. Estos dos últimos son gestionados por RE teniendo en cuenta la evolución de la demanda.
+
+Los datos representados en este indicador se refieren a datos Peninsulares.
+
+Publicación: diariamente a las 0:00 horas con la información del día D y a las 13:30 horas con las tres primeras horas del día D+1. Un valor cada cinco minutos.",Demanda programada,545
+637,Necesidades cubiertas de energías de balance RR subir,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+La asignación de energía de balance RR se realiza a través de una plataforma de balance europea (LIBRA) en aplicación del artículo 19 del Reglamento EB.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las necesidades de energías de balance de tipo RR cubiertas a subir por la plataforma europea de RR.
+
+Este indicador da continuidad al antiguo asignación gestión de desvíos subir.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Necesidades cubiertas balance RR,666
+638,Necesidades cubiertas de energías de balance RR bajar,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+La asignación de energía de balance RR se realiza a través de una plataforma de balance europea (LIBRA) en aplicación del artículo 19 del Reglamento EB.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las necesidades de energías de balance de tipo RR cubiertas a bajar por la plataforma europea de RR.
+
+Este indicador da continuidad al antiguo asignación gestión de desvíos bajar.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Necesidades cubiertas balance RR,667
+641,Necesidad de Regulación Terciaria subir,"La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario.
+
+Este servicio se encuentra regulado en el P.O.-7.3
+
+En concreto este indicador se refiere a las necesidades en potencia solicitadas de regulación terciaria a subir.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.
+
+ ",Necesidad Terciaria subir,672
+642,Necesidad de Regulación Terciaria bajar,"La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario.
+
+Este servicio se encuentra regulado en el P.O.-7.3
+
+En concreto este indicador se refiere a las necesidades en potencia solicitadas de regulación terciaria a bajar.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.
+
+ ",Necesidad Terciaria bajar,673
+643,Energía regulación terciaria a bajar asignada de activación programada (AP),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de energía de regulación terciaria programada a bajar.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Terciaria bajar,674
+644,Energía regulación terciaria a subir asignada de activación programada (AP),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de energía de regulación terciaria programada a subir.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación cuarto-horario.",Terciaria subir,675
+645,Precio marginal regulación terciaria a bajar de activación programada (AP),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere al precio marginal de la activación programada de la regulación terciaria a bajar.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Terciaria bajar,676
+646,Precio marginal regulación terciaria a subir de activación programada (AP),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere al precio marginal de la activación programada de la regulación terciaria a subir.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Terciaria subir,677
+655,Energía de ofertas de balance presentadas por el SEE para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,688
+656,Energía de ofertas de balance presentadas por el SEE para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,689
+657,Energía de ofertas de balance presentadas por Francia para importación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por Francia para importación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia importación,690
+658,Energía de ofertas de balance presentadas por Portugal para importación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por Portugal para importación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal importación,691
+659,Energía de ofertas de balance presentadas por Francia para exportación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por Francia para exportación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia exportación,692
+660,Energía de ofertas de balance presentadas por Portugal para exportación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por Portugal para exportación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal exportación,693
+661,Energía de ofertas de balance presentadas por el SEE para importación activadas por Francia,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación activadas por Francia.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,694
+662,Energía de ofertas de balance presentadas por el SEE para importación activadas por Portugal,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación activadas por Portugal.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,695
+663,Energía de ofertas de balance presentadas por el SEE para exportación activadas por Francia,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación activadas por Francia.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,696
+664,Energía de ofertas de balance presentadas por el SEE para exportación activadas por Portugal,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación activadas por Portugal.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,697
+681,Derechos de Cobro de las necesidades cubiertas de energías de balance RR,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a los derechos de cobro asociados al proceso de asignación de energías de balance RR.
+
+Este indicador da continuidad al correspondiente del antiguo proceso de Gestión de desvíos generación-consumo.
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.",Energías de Balance RR,714
+682,Obligaciones de Pago de las necesidades cubiertas de energías de balance RR,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las obligaciones de pago asociadas al proceso de asignación de energías de balance RR.
+
+Este indicador da continuidad al correspondiente del antiguo proceso de Gestión de desvíos generación-consumo.
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.",Energías de Balance RR,715
+683,Derechos de Cobro del proceso de Regulación de Terciaria,"La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario. 
+
+Este servicio se encuentra regulado en el P.O.-7.3
+
+En concreto este indicador se refiere a los derechos de cobro asociados al proceso de regulación terciaria.
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.",Regulación Terciaria,716
+684,Obligaciones de Pago del proceso de Regulación de Terciaria,"La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario. 
+
+Este servicio se encuentra regulado en el P.O.-7.3
+
+En concreto este indicador se refiere a las obligaciones de pago asociadas al proceso de regulación terciaria.
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.",Regulación Terciaria,717
+699,Balance de desvíos medidos terciaria subir,"Los desvíos medidos son diferencia entre la energía programada y la energía medida. 
+
+El precio de los desvíos se calcula de acuerdo a lo establecido en el P.O. 14.4.
+
+En concreto este indicador se refiere a la componente de los desvios procedente de la energía de regulación de terciaria a bajar
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.
+
+",Balance de desvíos medidos,732
+716,Balance de desvíos medidos terciaria bajar,"Los desvíos medidos son diferencia entre la energía programada y la energía medida. 
+
+El precio de los desvíos se calcula de acuerdo a lo establecido en el P.O. 14.4.
+
+En concreto este indicador se refiere a la componente de los desvios procedente de la energía de regulación de terciaria a bajar.
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.
+
+",Balance de desvíos medidos,749
+729,Energía neta de balance,"Saldo de las energías procedentes de los mercados de ajuste de energías de balance RR, regulación terciaria y regulación secundaria. Se basa en los desvíos medidos y es utilizado para el cálculo del precio de los desvíos.
+
+Los desvíos medidos son diferencia entre la energía programada y la energía medida. 
+
+El precio de los desvíos se calcula de acuerdo a lo establecido en el P.O. 14.4
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.
+
+",Energía neta,762
+734,Exceso/déficit de desvíos medidos,"Saldo resultante de sumar las energías gestionadas finalmente en todos los servicios de ajuste del sistema con la energía utilizada en el cálculo del precio de los desvíos medidos. Dicha energía se calcula como el saldo total de la energía de balance RR, regulación terciaria y regulación secundaria para la hora de publicación del precio del desvío en tiempo real.
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.",Exceso/déficit de desvíos medidos,767
+735,Ingreso/Coste unitario para la demanda por el excedente/déficit de los desvíos,"Es el resultado del dividir por la demanda el saldo resultante de sumar las energías gestionadas finalmente en todos los servicios de ajuste del sistema con la energía utilizada en el cálculo del precio de los desvíos medidos. Dicha energía se calcula como el saldo total de la energía de balance RR, regulación terciaria y regulación secundaria para la hora de publicación del precio del desvío en tiempo real.
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.",Ingreso/Coste unitario para la demanda,768
+943,Gastos mensuales de balance (GMB),"Importe mensual resultante de la liquidación de los mercados de banda de regulación secundaria, regulación terciaria, energías de balance RR y utilización de secundaria.
+
+Publicación: mensualmente antes del día 28 a las 12:00 horas para el mes M-3.",Gastos mensuales de balance (GMB),1037
+1034,Precio medio de ofertas de balance presentadas por el SEE para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1138
+1035,Precio medio de ofertas de balance presentadas por el SEE para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1139
+1036,Precio medio de ofertas de balance presentadas por Francia para importación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por Francia para importación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia importación,1140
+1037,Precio medio de ofertas de balance presentadas por Portugal para importación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por Francia para importación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal importación,1141
+1038,Precio medio de ofertas de balance presentadas por Francia para exportación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por Francia para exportación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia exportación,1142
+1039,Precio medio de ofertas de balance presentadas por Portugal para exportación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por Portugal para exportación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal exportación,1143
+1040,Precio medio de ofertas de balance presentadas por el SEE para importación activadas por Francia,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación activadas por Francia.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1144
+1041,Precio medio de ofertas de balance presentadas por el SEE para importación activadas por Portugal,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación activadas por Portugal.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1145
+1042,Precio medio de ofertas de balance presentadas por el SEE para exportación activadas por Francia,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación activadas por Francia.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1146
+1043,Precio medio de ofertas de balance presentadas por el SEE para exportación activadas por Portugal,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación activadas por Portugal.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1147
+1192,Energía de ofertas de balance presentadas por Francia para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por Francia para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia importación,1298
+1193,Energía de ofertas de balance presentadas por Francia para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por Francia para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia exportación,1299
+1194,Energía de ofertas de balance presentadas por Portugal para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por Portugal para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal importación,1300
+1195,Energía de ofertas de balance presentadas por Portugal para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere a la energía de las ofertas de balance presentadas por Portugal para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal exportación,1301
+1196,Precio medio de ofertas de balance presentadas por Francia para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por Francia para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia importación,1302
+1197,Precio medio de ofertas de balance presentadas por Francia para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por Francia para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia exportación,1303
+1198,Precio medio de ofertas de balance presentadas por Portugal para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por Portugal para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal importación,1304
+1199,Precio medio de ofertas de balance presentadas por Portugal para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio medio de las ofertas de balance presentadas por Portugal para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal exportación,1305
+1200,Precio máximo de ofertas de balance presentadas por SEE para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1306
+1201,Precio máximo de ofertas de balance presentadas por SEE para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1307
+1202,Precio máximo de ofertas de balance presentadas por Francia para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por Francia para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia importación,1308
+1203,Precio máximo de ofertas de balance presentadas por Francia para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por Francia para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia exportación,1309
+1204,Precio máximo de ofertas de balance presentadas por Portugal para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por Portugal para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal importación,1310
+1205,Precio máximo de ofertas de balance presentadas por Portugal para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por Portugal para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal exportación,1311
+1206,Precio máximo de ofertas de balance presentadas por SEE para importación activadas por Francia,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación activadas por Francia.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1312
+1207,Precio máximo de ofertas de balance presentadas por SEE para exportación activadas por Francia,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación activadas por Francia.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1313
+1208,Precio máximo de ofertas de balance presentadas por SEE para importación activadas por Portugal,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación activadas por Portugal.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1314
+1209,Precio máximo de ofertas de balance presentadas por SEE para exportación activadas por Portugal,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por el Sistema Eléctrico Español para exportación activadas por Portugal.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1315
+1210,Precio máximo de ofertas de balance presentadas por Francia para importación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por Francia para importación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia importación,1316
+1211,Precio máximo de ofertas de balance presentadas por Francia para exportación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por Francia para exportación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia exportación,1317
+1212,Precio máximo de ofertas de balance presentadas por Portugal para importación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por Portugal para importación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal importación,1318
+1213,Precio máximo de ofertas de balance presentadas por Portugal para exportación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio máximo de las ofertas de balance presentadas por Portugal para exportación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal exportación,1319
+1214,Precio mínimo de ofertas de balance presentadas por SEE para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1320
+1215,Precio mínimo de ofertas de balance presentadas por SEE para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1321
+1216,Precio mínimo de ofertas de balance presentadas por Francia para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por Francia para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia importación,1322
+1217,Precio mínimo de ofertas de balance presentadas por Francia para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por Francia para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia exportación,1323
+1218,Precio mínimo de ofertas de balance presentadas por Portugal para importación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por Portugal para importación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal importación,1324
+1219,Precio mínimo de ofertas de balance presentadas por Portugal para exportación,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por Portugal para exportación.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal exportación,1325
+1220,Precio mínimo de ofertas de balance presentadas por SEE para importación activadas por Francia,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por el Sistema Eléctrico Español para importación activadas por Francia.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1326
+1221,Precio mínimo de ofertas de balance presentadas por SEE para exportación activadas por Francia,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por el Sistema Eléctrico Español activadas por Francia.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1327
+1222,Precio mínimo de ofertas de balance presentadas por SEE para importación activadas por Portugal,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por el Sistema Eléctrico Español activadas por Portugal.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE importación,1328
+1223,Precio mínimo de ofertas de balance presentadas por SEE para exportación activadas por Portugal,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por el Sistema Eléctrico Español activadas por Portugal.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",SEE exportación,1329
+1224,Precio mínimo de ofertas de balance presentadas por Francia para importación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por Francia para importación activadas por el Sistema Eléctrico Español
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia importación,1330
+1225,Precio mínimo de ofertas de balance presentadas por Francia para exportación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por Francia para exportación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Francia exportación,1331
+1226,Precio mínimo de ofertas de balance presentadas por Portugal para importación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por Portugal para importación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal importación,1332
+1227,Precio mínimo de ofertas de balance presentadas por Portugal para exportación activadas por el SEE,"Los mercados de balance transfronterizos son un mecanismo gestionado desde la plataforma BALIT para la mejora del uso de la capacidad de intercambio en las interconexiones FR-ES y PT-ES, así como la optimización de costes de asociados a  la regulación de terciaria y la gestión de desvíos.
+
+En concreto este indicador se refiere al precio mínimo de las ofertas de balance presentadas por Portugal para exportación activadas por el Sistema Eléctrico Español.
+
+Publicación: diariamente sobre las 5:00 horas con la información del día anterior.",Portugal exportación,1333
+1434,Precio energías de balance RR,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere al precio marginal resultante de la asignación de energías de balance de RR en distintas zonas de oferta europeas (España, República Checa, Italia Norte, Portugal y Francia). Este indicador está geo-referenciado a nivel de zona de oferta.
+
+La fuente de la información que proporciona este dato es REE para los datos de la zona de oferta española y ENTSO-E Transparency Platform para el resto de zonas de oferta.
+
+Publicación: cada hora con la información disponible hasta ese momento del día D se tiene un precio provisional. Al día siguiente se actualiza la información de todo el día anterior ya con el cierre.",Precio Energia Balance RR,1782
+1435,Asignación a subir de energías de balance RR SEE,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+La asignación de energía de balance RR se realiza a través de una plataforma de balance europea (LIBRA) en aplicación del artículo 19 del Reglamento EB.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las asignaciones de energía de balance de tipo RR a subir en la plataforma europea de RR para el Sistema Eléctrico Español.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Subir Energias Balance RR SEE,1783
+1436,Asignación a bajar de energías de balance RR SEE,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+La asignación de energía de balance RR se realiza a través de una plataforma de balance europea (LIBRA) en aplicación del artículo 19 del Reglamento EB.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las asignaciones de energía de balance de tipo RR a bajar en la plataforma europea de RR para el Sistema Eléctrico Español.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Bajar Energias Balance RR SEE,1784
+1437,Necesidad inelástica solicitada de energías de balance RR,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las necesidades inelásticas correspondientes a los requerimientos de energías de balance RR 
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Inelastica solicitada Energias Balance RR,1787
+1438,Requerimientos de terciaria subir,"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere los requerimientos en potencia de reserva de regulación terciaria a subir establecidos por el OS para cada uno de los periodos de programación del día siguiente.
+
+Publicación: diariamente con la información del día D sobre las 5:00 horas",Requerimientos Terciaria subir,1788
+1439,Requerimientos de terciaria bajar,"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere los requerimientos en potencia de reserva de regulación terciaria a bajar establecidos por el OS para cada uno de los periodos de programación del día siguiente.
+
+Publicación: diariamente con la información del día D sobre las 5:00 horas",Requerimientos Terciaria bajar,1789
+1473,Requisito máximo de control de flujo en España-Portugal en sentido exportador,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3
+
+En concreto este indicador se refiere al requisito máximo de control de flujo solicitado por el OS para la interconexión entre España y Portugal en sentido exportador.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Requisito máximo Portugal exportador,1824
+1474,Requisito mínimo de control de flujo en España-Portugal en sentido exportador,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3
+
+En concreto este indicador se refiere al requisito mínimo de control de flujo solicitado por el OS para la interconexión entre España y Portugal en sentido exportador.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Requisito mínimo Portugal exportador,1825
+1475,Requisito máximo de control de flujo en España-Portugal en sentido importador,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3
+
+En concreto este indicador se refiere al requisito máximo de control de flujo solicitado por el OS para la interconexión entre España y Portugal en sentido importador.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Requisito máximo Portugal importador,1826
+1476,Requisito mínimo de control de flujo en España-Portugal en sentido importador,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3
+
+En concreto este indicador se refiere al requisito mínimo de control de flujo solicitado por el OS para la interconexión entre España y Portugal en sentido importador.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Requisito mínimo Portugal importador,1827
+1477,Requisito máximo de control de flujo en España-Francia en sentido exportador,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3
+
+En concreto este indicador se refiere al requisito máximo de control de flujo solicitado por el OS para la interconexión entre España y Francia en sentido exportador.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Requisito máximo Francia exportador,1828
+1478,Requisito mínimo de control de flujo en España-Francia en sentido exportador,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3
+
+En concreto este indicador se refiere al requisito mínimo de control de flujo solicitado por el OS para la interconexión entre España y Francia en sentido exportador.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Requisito mínimo Francia exportador,1829
+1479,Requisito máximo de control de flujo en España-Francia en sentido importador,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3
+
+En concreto este indicador se refiere al requisito máximo de control de flujo solicitado por el OS para la interconexión entre España y Francia en sentido importador.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Requisito máximo Francia importador,1830
+1480,Requisito mínimo de control de flujo en España-Francia en sentido importador,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3
+
+En concreto este indicador se refiere al requisito mínimo de control de flujo solicitado por el OS para la interconexión entre España y Francia en sentido importador.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Requisito mínimo Francia importador,1831
+1495,Necesidad elástica solicitada de energías de balance RR,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las necesidades elásticas correspondientes a los requerimientos de energías de balance RR
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Elastica solicitada Energias Balance RR,1870
+1507,Energía regulación terciaria a bajar asignada en QH0 de activación directa (AD QH0),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de energía de regulación terciaria directa a bajar en el primer cuarto de hora de entrega de energía.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Regulación terciaria bajar AD QH0,1883
+1508,Energía regulación terciaria a subir asignada en QH0 de activación directa (AD QH0),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de energía de regulación terciaria directa a subir en el primer cuarto de hora de entrega de energía.
+
+Publicación: en el día en curso cada cuarto de hora para el periodo cuarto-horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Regulación terciaria subir AD QH0,1884
+1509,Energía regulación terciaria a bajar asignada en QH1 de activación directa (AD QH1),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de energía de regulación terciaria directa a bajar en el segundo cuarto de hora de entrega de energía.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Regulación terciaria bajar AD QH1,1885
+1510,Energía regulación terciaria a subir asignada en QH1 de activación directa (AD QH1),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de energía de regulación terciaria directa a bajar en el segundo cuarto de hora de entrega de energía.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Regulación terciaria subir AD QH1,1886
+1511,Necesidad regulación terciaria a bajar de activación programada (AP),"Necesidad regulación terciaria a bajar de activación programada (AP)
+
+La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la necesidad de tipo programado de la regulación terciaria a bajar.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Necesidad regulación terciaria bajar AP,1891
+1512,Necesidad regulación terciaria a subir de activación programada (AP),"Necesidad regulación terciaria a subir de activación programada (AP)
+
+La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la necesidad de tipo programado de la regulación terciaria a subir.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Necesidad Regulación terciaria subir AP,1892
+1513,Necesidad regulación terciaria a bajar de activación directa (AD),"Necesidad regulación terciaria a bajar de activación directa (AD)
+
+La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.Este servicio se encuentra regulado en el P.O. 7.3En concreto este indicador se refiere a la necesidad de tipo programado de la regulación terciaria a bajar.Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la necesidad de tipo programado de la regulación terciaria a bajar.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Necesidad Regulación terciaria bajar AD,1893
+1514,Necesidad regulación terciaria a subir de activación directa (AD),"Necesidad regulación terciaria a subir de activación directa (AD)
+
+La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la necesidad de tipo directo de la regulación terciaria a subir.
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Necesidad Regulación terciaria subir AD,1894
+1640,Volumen absoluto de Energía asignada por restricciones en tiempo real,"El proceso de solución de restricciones técnicas en Tiempo Real es realizado por el Operador del sistema que consiste en la resolución de las restricciones técnicas identificadas durante la operación en tiempo real mediante la modificación de los programas de las Unidades de Programación. 
+
+Este servicio se encuentra regulado en el P.O.-3.2.
+
+El desglose de este indicador muestra las energías asignadas a subir y a bajar en el proceso de regulación de terciaria, ambas en valor absoluto.
+
+Publicación: diariamente a las 7:45 con la información del día anterior y a partir de las 19:30 para días pasados según el calendario de liquidaciones.",Restricciones en tiempo real,10052
+1642,Volumen absoluto de necesidades cubiertas de energías de balance RR,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+La asignación de energía de balance RR se realiza a través de una plataforma de balance europea (LIBRA) en aplicación del artículo 19 del Reglamento EB.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las necesidades de energías de balance de tipo RR en valor absoluto cubiertas por la plataforma europea de RR.
+
+Este indicador da continuidad al antiguo volumen absoluto de asignación gestión de desvíos subir/bajar.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Energías de Balance RR,10054
+1643,Volumen absoluto de asignación Regulación Terciaria,"La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario. 
+
+Este servicio se encuentra regulado en el P.O.-7.3
+
+El desglose de este indicador muestra las energías asignadas a subir y a bajar en el proceso de regulación de terciaria, ambas en valor absoluto.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Regulación Terciaria,10055
+1645,Energía total mercado de producción,"Volumen total de la energía gestionada en los mercados de producción de energía eléctrica.
+
+El desglose de este indicador detalla la energía asignada en los mercados SPOT Diario e Intradiarios, regulación de terciaria, utilización de secundaria, energías de balance RR, restricciones técnicas de fase I y en tiempo real, tanto a subir como a bajar.
+
+Todas las energías están en valor absoluto.
+
+Para datos anteriores al 3 de marzo de 2020 los volúmenes de energías de balance RR se corresponden con los volúmenes de energía asignada en el servicio de gestión de desvíos generación-consumo.
+
+Publicación: diariamente según publicación de los indicadores de cada mercado.",Volumen total MWh,10057
+1830,Volumen neto de asignación regulación terciaria,"La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario. 
+
+Este servicio se encuentra regulado en el P.O.-7.3
+
+El desglose de este indicador muestra las energías asignadas a subir y a bajar en el proceso de regulación de terciaria, cada una de ellas con su signo.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Terciaria volumen neto,10250
+1831,Volumen neto de necesidades cubiertas de energías de balance RR,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+La asignación de energía de balance RR se realiza a través de una plataforma de balance europea (LIBRA) en aplicación del artículo 19 del Reglamento EB.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las necesidades de energías de balance netas de tipo RR cubiertas por la plataforma europea de RR.
+
+Este indicador da continuidad al antiguo volumen neto de asignación gestión de desvíos subir/bajar.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.
+
+",Energías de Balance RR,10251
+1875,Energía de balance a subir,"La regulación secundaria es un servicio complementario de carácter potestativo que tiene por objeto el mantenimiento del equilibrio generación-demanda, corrigiendo los desvíos respecto a los programas de intercambio previstos en la interconexión España-Francia, y las desviaciones de la frecuencia.
+
+Este servicio es retribuido mediante mecanismos de mercado por dos conceptos: disponibilidad (banda de regulación) y utilización (energía).
+
+Los productores ofertan banda de regulación con las Unidades de Programación habilitadas para la prestación del servicio que son asignadas por criterios de mínimo coste hasta cubrir los requerimientos del sistema, estableciéndose así un precio marginal de banda de regulación secundaria.
+
+La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario.
+
+El mecanismo de gestión de desvíos es un servicio de carácter potestativo que tiene por objeto resolver los desvíos entre generación y consumo que pudieran aparecer con posterioridad al cierre de cada sesión del mercado intradiario y hasta el inicio del horizonte de efectividad de la siguiente sesión. La asignación se basa en las ofertas de incremento y reducción del programa de las Unidades de Programación habilitadas que participan en dicha convocatoria. La valoración de las modificaciones programadas para la resolución de los desvíos se realiza al precio marginal de las ofertas asignadas en cada periodo horario.
+
+En concreto este indicador se refiere a la energía secundaria utilizada a subir, la energía de terciaria a subir y la energía de gestión de desvios a subir.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Energía de balance a subir,10323
+1876,Energía de balance a bajar,"La regulación secundaria es un servicio complementario de carácter potestativo que tiene por objeto el mantenimiento del equilibrio generación-demanda, corrigiendo los desvíos respecto a los programas de intercambio previstos en la interconexión España-Francia, y las desviaciones de la frecuencia.
+
+Este servicio es retribuido mediante mecanismos de mercado por dos conceptos: disponibilidad (banda de regulación) y utilización (energía).
+
+Los productores ofertan banda de regulación con las Unidades de Programación habilitadas para la prestación del servicio que son asignadas por criterios de mínimo coste hasta cubrir los requerimientos del sistema, estableciéndose así un precio marginal de banda de regulación secundaria.
+
+La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario.
+
+El mecanismo de gestión de desvíos es un servicio de carácter potestativo que tiene por objeto resolver los desvíos entre generación y consumo que pudieran aparecer con posterioridad al cierre de cada sesión del mercado intradiario y hasta el inicio del horizonte de efectividad de la siguiente sesión. La asignación se basa en las ofertas de incremento y reducción del programa de las Unidades de Programación habilitadas que participan en dicha convocatoria. La valoración de las modificaciones programadas para la resolución de los desvíos se realiza al precio marginal de las ofertas asignadas en cada periodo horario.
+
+En concreto este indicador se refiere a la energía utilizada a bajar, la energía asignada de regulación terciaria a subir y la energía asignada en el proceso de gestión de desvíos a bajar.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Energía de balance a bajar,10324
+1877,Energía total asignada por seguridad y de balance,"Proceso de solución de restricciones técnicas PBF o Mercado de seguridad del diario es el proceso realizado por el Operador del sistema consistente en la resolución de las restricciones técnicas identificadas en el Programa Diario Base de Funcionamiento (Fase I) mediante la modificación de los programas de las Unidades de Programación y el posterior proceso de reequilibrio generación-demanda (Fase II).
+
+El proceso de solución de restricciones técnicas en Tiempo Real es realizado por el Operador del sistema que consiste en la resolución de las restricciones técnicas identificadas durante la operación en tiempo real mediante la modificación de los programas de las Unidades de Programación.
+
+La regulación secundaria es un servicio complementario de carácter potestativo que tiene por objeto el mantenimiento del equilibrio generación-demanda, corrigiendo los desvíos respecto a los programas de intercambio previstos en la interconexión España-Francia, y las desviaciones de la frecuencia.
+
+La regulación terciaria es un servicio complementario de oferta obligatoria, gestionado y retribuido por mecanismos de mercado. Tiene por objeto la restitución de la reserva de regulación secundaria que haya sido utilizada. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la valoración de las modificaciones programadas por regulación terciaria se realiza al precio marginal de las ofertas asignadas en cada periodo horario.
+
+El mecanismo de gestión de desvíos es un servicio de carácter potestativo que tiene por objeto resolver los desvíos entre generación y consumo que pudieran aparecer con posterioridad al cierre de cada sesión del mercado intradiario y hasta el inicio del horizonte de efectividad de la siguiente sesión. La asignación se basa en las ofertas de incremento y reducción del programa de las Unidades de Programación habilitadas que participan en dicha convocatoria. La valoración de las modificaciones programadas para la resolución de los desvíos se realiza al precio marginal de las ofertas asignadas en cada periodo horario.
+
+En concreto este indicador se refiere a la energía asignada en el mercado de seguridad del diario en la fase I, la energía asignada por restricciones en tiempo real, la energía de regulación secundaria utilizada, la energía asignada de regulación terciaria y la energía asignada en el proceso de gestión de desvíos.
+
+Publicación: en el día en curso cada hora para el periodo horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Energía total asignada por seguridad y de balance,10325
+1893,Programas balance transfronterizo importación,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente. La asignación de energía de balance de tipo RR se realiza a través de la plataforma europea de RR (LIBRA) en aplicación del artículo 19 del Reglamento (UE) 2017/2195 sobre el Balance Eléctrico (EBGL).
+
+Este servicio se encuentra regulado en el P.O.3.3.
+
+En concreto este indicador se refiere a programas de intercambio de energías de balance, en [MWh], de tipo RR en sentido importador para cada hora. Este indicador recoge los datos de asignación de energías de balance transfronterizas realizadas en el pasado a través de la plataforma BALIT.
+
+Publicación: En la hora siguiente a la publicación de la sesión de terciaria en la que el servicio es utilizado y actualizados al final del día.",Programas balance transfronterizo importación,10360
+1894,Programas balance transfronterizo exportación,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente. La asignación de energía de balance de tipo RR se realiza a través de la plataforma europea de RR (LIBRA) en aplicación del artículo 19 del Reglamento (UE) 2017/2195 sobre el Balance Eléctrico (EBGL).
+
+Este servicio se encuentra regulado en el P.O.3.3
+
+En concreto este indicador se refiere a programas de intercambio de energías de balance, en [MWh], de tipo RR en sentido exportador para cada hora. Este indicador recoge los datos de asignación de energías de balance transfronterizas realizadas en el pasado a través de la plataforma BALIT.
+
+Publicación: En la hora siguiente a la publicación de la sesión de terciaria en la que el servicio es utilizado y actualizados al final del día.",Programas balance transfronterizo exportación,10361
+1916,Necesidad total solicitada de energías de balance RR,"El mecanismo de asignación de energías de balance RR es un servicio que tiene por objeto restablecer o mantener el nivel de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación secundaria y terciaria) requerido al objeto de prepararse para desequilibrios adicionales del sistema.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere a las necesidades totales solicitadas correspondientes a los requerimientos de energías de balance RR
+
+Publicación: diariamente con la información del día D-1 sobre las 5:00 horas.",Total solicitada Energias Balance RR,10383
+1917,Precio medio ponderado de las necesidades cubiertas de energías de balance RR a subir,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere al precio medio ponderado resultante de la cobertura de la necesidad a subir de la zona de oferta española establecido por la plataforma europea de RR.
+
+La fuente de información que proporciona este dato es REE.
+
+Publicación: cada hora con la información disponible hasta ese momento del día D se tiene un precio provisional. Al día siguiente se actualiza la información de todo el día anterior ya con el cierre.",Precio Ponderado Energia Balance RR subir,10384
+1918,Precio medio ponderado de las necesidades cubiertas de energías de balance RR a bajar,"El proceso de activación de ofertas de energías procedentes de reservas de sustitución (RR, por sus siglas en inglés) tiene por objeto restablecer o mantener el nivel requerido de energías de recuperación de la frecuencia con activación manual y automática (energías de regulación terciaria y secundaria, respectivamente), al objeto de preparar el sistema para posibles desbalances que puedan registrarse posteriormente.
+
+Este servicio se encuentra regulado en el P.O.-3.3.
+
+En concreto este indicador se refiere al precio medio ponderado resultante de la cobertura de la necesidad a bajar de la zona de oferta española establecido por la plataforma europea de RR.
+
+La fuente de información que proporciona este dato es REE.
+
+Publicación: cada hora con la información disponible hasta ese momento del día D se tiene un precio provisional. Al día siguiente se actualiza la información de todo el día anterior ya con el cierre.",Precio Ponderado Energia Balance RR bajar,10385
+1919,Precio medio ponderado regulación terciaria a subir,"Precio medio ponderado regulación terciaria a subir
+
+La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere al precio medio ponderado resultante de la asignación de energía de regulación terciaria a subir
+
+La fuente de información que proporciona este dato es REE.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Precio medio ponderado subir,10386
+1920,Precio medio ponderado regulación terciaria a bajar,"Precio medio ponderado regulación terciaria a bajar
+
+La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere al precio medio ponderado resultante de la asignación de energía de regulación terciaria a bajar
+
+La fuente de información que proporciona este dato es REE.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Precio medio ponderado bajar,10387
+1927,Asignación regulación terciaria bajar,"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de regulación terciaria a bajar.
+
+Publicación: en el día en curso cada cuarto de hora para el periodo cuarto-horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Regulación terciaria bajar,10394
+1928,Asignación regulación terciaria subir,"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de regulación terciaria a subir.
+
+Publicación: en el día en curso cada cuarto de hora para el periodo cuarto-horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Regulación terciaria subir,10395
+1929,Energía regulación terciaria a subir de activación directa (AD),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de regulación terciaria a subir.
+
+Publicación: en el día en curso cada cuarto de hora para el periodo cuarto-horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Energía regulación terciaria a subir(AD),10396
+1930,Energía regulación terciaria a bajar de activación directa (AD),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere a la asignación de regulación terciaria a bajar.
+
+Publicación: en el día en curso cada cuarto de hora para el periodo cuarto-horario anterior y una vez al día antes de las 13:00 horas con la información del día anterior.",Energía regulación terciaria a bajar(AD),10397
+1931,Precio medio ponderado regulación terciaria a subir de activación programada (AP),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere al precio medio ponderado resultante de la asignación programada de energía de regulación terciaria a subir
+
+La fuente de información que proporciona este dato es REE.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Precio medio ponderado subir (AP),10398
+1932,Precio medio ponderado regulación terciaria a bajar de activación programada (AP),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere al precio medio ponderado resultante de la asignación programada de energía de regulación terciaria a bajar
+
+La fuente de información que proporciona este dato es REE.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Precio medio ponderado bajar (AP),10399
+1933,Precio medio ponderado regulación terciaria a subir de activación directa (AD),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere al precio medio ponderado resultante de la asignación directa de energía de regulación terciaria a subir.
+
+La fuente de información que proporciona este dato es REE.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Precio medio ponderado subir (AD),10400
+1934,Precio medio ponderado regulación terciaria a bajar de activación directa (AD),"La regulación terciaria es uno de los servicios de balance de activación de reservas de potencia activa que tiene por objeto mantener la frecuencia y el equilibrio generación-demanda del sistema. Este servicio, de activación manual en un tiempo igual o inferior a 15 minutos, es gestionado por el OS mediante mecanismos del mercado y permite la restitución del uso de reserva automática de regulación secundaria. La asignación del servicio de regulación terciaria se realiza teniendo en cuenta las ofertas enviadas a tal fin por las Unidades de Programación habilitadas para la prestación de este servicio; la energía de regulación terciaria asignada será valorada al precio marginal resultante del proceso de asignación en cada período de programación.
+
+Este servicio se encuentra regulado en el P.O. 7.3
+
+En concreto este indicador se refiere al precio medio ponderado resultante de la asignación directa de energía de regulación terciaria a bajar.
+
+La fuente de información que proporciona este dato es REE.
+
+Publicación: a más tardar, 30 minutos después del correspondiente periodo de programación.",Precio medio ponderado bajar (AD),10401
