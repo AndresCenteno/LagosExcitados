@@ -1,3 +1,0 @@
-#!/bin/bash
-export ESIOS_API_KEY=59eafc8896fb679e47acd230a34e72cfec2155dbca4d639e08069e24ff6f9b5b
-echo $ESIOS_API_KEY
