@@ -1,1 +1,2 @@
-Hola! Si vienes por mi CV, no he subido los datos porque no tengo claro que se puedan hacer públicos.
+Hello! If you come from my CV: I did not upload the data as I'm not sure it can be made public.
+As you can see, this is just a proof that I can code, I don't believe the forecasts can really yield any useful results unless the purpose is known and we can adjust the loss function in order to do so, maybe some pinball loss with a clear trading objective as seen here https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition 
